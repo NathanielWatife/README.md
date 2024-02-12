@@ -1,22 +1,26 @@
 # Hello, I'm [Dev Nath] 👋
 
-I'm a [Backend developer] based in [Lagos, Nigeria]. Welcome to my GitHub profile!
+I'm a Backend developer. 
+And also an ALX_SE student.
+Welcome to my GitHub profile!
 
 ## About Me
 
-I am passionate about [coding and using my coding knowlegde to find solutions to that problem]. Whether it's coding, problem-solving, or exploring new technologies, I love [to ].
+I am passionate about coding and using my coding knowlegde to find solutions to that problem.
 
 ## Skills
-
-- **Languages:** [Python]
-- **Frameworks:** [Django]
+- **Languages:**
+- [C programming language]
+- [Python]
+   - **Frameworks:** [Django] [Django rest framework]
 
 
 ## Projects
 
 Here are some notable projects I've been working on:
 
-1. **[Meetface]**
+1. **[Buildling a shell using C]**
+2. **[Bulding an AirBNB Clone]**
    ...
 
 Feel free to explore my repositories to see more of my work!
@@ -30,6 +34,6 @@ Feel free to explore my repositories to see more of my work!
 
 ## Contributions
 
-I am actively and currently contributing to [Open Source Community] and also i have so much believe in the power of collaboration and open-source software.
+I am actively and currently contributing to [Open Source Community]
 
 Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or just want to connect. 😊
